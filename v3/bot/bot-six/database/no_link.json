@@ -1,0 +1,1652 @@
+{
+  "0": {
+    "all": {
+      "link": "https://",
+      "condition": "on"
+    },
+    "allsosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://www.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "1": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "allsosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://www.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "2": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "allsosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://www.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "3": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "allsosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://www.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "4": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "allsosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://www.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "5": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "allsosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "on"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "on"
+    },
+    "tiktok": {
+      "link": "https://www.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "on"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "on"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "on"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "on"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "on"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "on"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "on"
+    }
+  },
+  "6": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "allsosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://www.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "7": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "allsosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://www.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "8": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "allsosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://www.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "9": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "10": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "11": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "12": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "13": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "14": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "15": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "16": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "17": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "18": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "19": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "20": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "21": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "22": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "23": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "24": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "25": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "26": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "27": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "28": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "29": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "30": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "31": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  },
+  "32": {
+    "all": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "sosmed": {
+      "link": "https://",
+      "condition": "off"
+    },
+    "gc": {
+      "link": "https://chat.whatsapp.com/",
+      "condition": "off"
+    },
+    "ch": {
+      "link": "https://whatsapp.com/channel/",
+      "condition": "off"
+    },
+    "tiktok": {
+      "link": "https://vt.tiktok.com/",
+      "condition": "off"
+    },
+    "fb": {
+      "link": "https://www.facebook.com/",
+      "condition": "off"
+    },
+    "twitter": {
+      "link": "https://x.com/",
+      "condition": "off"
+    },
+    "ig": {
+      "link": "https://www.instagram.com/",
+      "condition": "off"
+    },
+    "tg": {
+      "link": "https://t.me/",
+      "condition": "off"
+    },
+    "dc": {
+      "link": "https://discord.gg/",
+      "condition": "off"
+    },
+    "ytvid": {
+      "link": "https://youtu.be/",
+      "condition": "off"
+    },
+    "ytch": {
+      "link": "https://youtube.com/",
+      "condition": "off"
+    }
+  }
+}
